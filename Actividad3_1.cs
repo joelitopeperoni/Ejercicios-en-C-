@@ -21,7 +21,7 @@ namespace Actividad3Operadores
                     Console.WriteLine("3. Calcular area de circulo");
                     Console.WriteLine("4. Dia de la semana");
                     Console.WriteLine("5. Año bisiesto");
-                    Console.WriteLine("5. Ecuaciónes de segundo grado");
+                    Console.WriteLine("6. Ecuaciónes de segundo grado");
                     Console.WriteLine("0. Salir.");
                     Console.Write("Selecciona una opción (0-1): ");
                     opcion = int.Parse(Console.ReadLine());
